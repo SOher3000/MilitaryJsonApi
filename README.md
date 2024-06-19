@@ -34,7 +34,7 @@ Thank you for considering contributing to this project! The contribution guide c
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within the project, please follow the [security guidelines](https://laravel.com/docs/8.x/security) provided in the Laravel documentation.
+If you discover a security vulnerability within the project, please follow the [security guidelines](https://laravel.com/docs/10.x/security) provided in the Laravel documentation.
 
 ## License
 
