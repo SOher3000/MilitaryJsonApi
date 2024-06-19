@@ -1,0 +1,44 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Military API",
+        "version": "1.0"
+    },
+    "paths": {
+        "/api/military": {
+            "get": {
+                "summary": "Get list of military items",
+                "operationId": "ea41ceb3adee6fd0aa5a866e478ec125",
+                "responses": {
+                    "200": {
+                        "description": "List of military items"
+                    }
+                }
+            }
+        },
+        "/api/military/{id}": {
+            "get": {
+                "summary": "Get a specific military item",
+                "operationId": "e507a834fc1f25a34fab99a404c33d98",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Military item details"
+                    },
+                    "404": {
+                        "description": "Record not found"
+                    }
+                }
+            }
+        }
+    }
+}
