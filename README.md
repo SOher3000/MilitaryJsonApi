@@ -1,9 +1,8 @@
-<p align="center"><a href="https://github.com/SOher3000/MilitaryJsonAp" target="_blank"><img src="https://ih1.redbubble.net/image.2669601005.3462/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://github.com/SOher3000/MilitaryJsonApi" target="_blank"><img src="https://ih1.redbubble.net/image.2669601005.3462/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://github.com/SOher3000/MilitaryJsonApi"><img src="https://img.shields.io/badge/Dowload-blue" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
